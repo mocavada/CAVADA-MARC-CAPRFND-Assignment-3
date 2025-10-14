@@ -1,0 +1,15 @@
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/bin/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/bin/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.deps.json
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/bin/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.runtimeconfig.json
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/bin/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.dll
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/bin/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.pdb
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.AssemblyInfoInputs.cache
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.AssemblyInfo.cs
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.csproj.CoreCompileInputs.cache
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.sourcelink.json
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.dll
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/refint/CAVADA-MARC-CAPRFND-Assignment-2.dll
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.pdb
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/CAVADA-MARC-CAPRFND-Assignment-2.genruntimeconfig.cache
+/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/Debug/net9.0/ref/CAVADA-MARC-CAPRFND-Assignment-2.dll
