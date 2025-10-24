@@ -1,75 +1,23 @@
 
-# PROGRAMMING TECHNIQUES - Assignment 3
 
-**CAVADA-MARC-PROJECT-CA_PRTQS-A3**  
-**GIT:** [https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3](https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3)
-
----
-
-## 📘 Introduction
-This project demonstrates the application of **Object-Oriented Programming (OOP)** concepts in **C#**, focusing on **inheritance, encapsulation, and polymorphism**.  
-It is a simple console-based application that classifies individuals as either **Teacher** or **Students**, executing the appropriate behavior depending on their role.  
-
-Developed under the **.NET 9.0 Console App** structure, this assignment is part of *Programming Techniques - C#* coursework.
-
----
-
-## 🧠 Objective
-To build a C# console program that:
-- Accepts three names from the user.
-- Identifies one as a **Teacher** and two as **Students**.
-- Calls each appropriate method:
-  - `Teacher.Explain()` → outputs **“Explain”**
-  - `Student.Study()` → outputs **“Study”**
-
----
-
-## 🧩 Specifications
-- Define a **base class** `Person` with:
-  - A `Name` property
-  - A constructor accepting the name
-  - A `ToString()` override to display the name
-
-- Create two **derived classes**:
-  - `Student` with a `Study()` method
-  - `Teacher` with an `Explain()` method
-
-- Store all instances in a `Person[]` array.
-- Use `Console.ReadLine()` for input and **property syntax** for all class properties.
-
----
-
-## 🖥️ Sample Execution
-
-**Input:**
-
-Juan
-Sara
-Carlos
-
-**Output:**
-
-Explain
-Study
-Study
-
----
-
-## ⚙️ How to Run
-1. Open the terminal inside the project folder.  
-2. Run:
-   ```bash
-   dotnet build
-   dotnet run
-
-3.	Enter three names when prompted.
-
-
-
+PROGRAMMING TECHNIQUES – Assignment 3
+CAVADA-MARC-PROJECT-CA_PRTQS-A3
+GIT: https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3
 
 ⸻
 
-🧮 Source Code
+📘 Introduction
+This project is part of the Programming Techniques – C# coursework. It focuses on applying Object-Oriented Programming principles such as inheritance, encapsulation, and method overriding to simulate a simple scenario distinguishing between a Teacher and Student using a console-based C# application.
+
+The program prompts the user to enter three names — one teacher and two students. Based on the input, it dynamically creates objects of Teacher and Student types, each inheriting from a base class Person. The output demonstrates polymorphic behavior through specific methods:
+	•	The Teacher executes the Explain() method.
+	•	Each Student executes the Study() method.
+
+This assignment demonstrates foundational C# concepts essential for professional development practices.
+
+⸻
+
+🧩 Code Implementation
 
 Program.cs
 
@@ -109,7 +57,7 @@ namespace CAVADA_MARC_CAPRFND_Assignment_2
 
 ⸻
 
-Assignments/Q1_Person.cs
+Q1_Car.cs (Assignment Class File Example)
 
 using System;
 
@@ -160,7 +108,3 @@ namespace CAVADA_MARC_CAPRFND_Assignment_2.Assignments
 
 
 ⸻
-
-📄 End of Assignment 3 Documentation
-
----
