@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/CAVADA-MARC-CAPRFND-Assignment-2.csproj",
-      "projectName": "CAVADA-MARC-CAPRFND-Assignment-2",
-      "projectPath": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/CAVADA-MARC-CAPRFND-Assignment-2.csproj",
+      "projectUniqueName": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-3/CAVADA-MARC-CAPRFND-Assignment-3.csproj",
+      "projectName": "CAVADA-MARC-CAPRFND-Assignment-3",
+      "projectPath": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-3/CAVADA-MARC-CAPRFND-Assignment-3.csproj",
       "packagesPath": "/Users/mocavada/.nuget/packages/",
-      "outputPath": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-2/obj/",
+      "outputPath": "/Users/mocavada/@Code/MarcCavadca-Assignment-CA-PFRND/CAVADA-MARC-CAPRFND-Assignment-3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mocavada/.nuget/NuGet/NuGet.Config"

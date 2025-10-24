@@ -1,33 +1,32 @@
 ﻿using System;
-using Assignments;
+using CAVADA_MARC_CAPRFND_Assignment_2.Assignments;
 
-class Program
+namespace CAVADA_MARC_CAPRFND_Assignment_2
 {
-    static void Main()
+    internal class Program
     {
-        Console.WriteLine("Assignment 2 - Q1: Car Class");
-        Car car = new Car();
-        car.Start();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter three names:");
 
-        Console.WriteLine("\nAssignment 2 - Q2: Employee Struct");
-        Q2_EmployeeProgram.Run();
+            // Use null-coalescing operator to avoid nullable warnings
+            string name1 = Console.ReadLine() ?? string.Empty;
+            string name2 = Console.ReadLine() ?? string.Empty;
+            string name3 = Console.ReadLine() ?? string.Empty;
 
-        Console.WriteLine("\nAssignment 2 - Q3: Array Element Comparison");
-        Q3_ArrayCompare.Run();
+            // Create objects safely with guaranteed non-null strings
+            Person[] people = new Person[3];
+            people[0] = new Teacher(name1);
+            people[1] = new Student(name2);
+            people[2] = new Student(name3);
 
-        Console.WriteLine("\nAssignment 2 - Q4: Palindrome Check");
-        Q4_Palindrome.Run();
+            Console.WriteLine("\nOutput:");
+            ((Teacher)people[0]).Explain();
+            ((Student)people[1]).Study();
+            ((Student)people[2]).Study();
 
-        Console.WriteLine("\nAssignment 2 - Q5: Params Sum");
-        Q5_AddParams.Run();
-
-        Console.WriteLine("\nAssignment 2 - Q6: Array Copy");
-        Q6_ArrayCopy.Run();
-
-        Console.WriteLine("\nAssignment 2 - Q7: Array Sorting Descending");
-        Q7_ArraySortDescending.Run();
-
-        Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
     }
 }
