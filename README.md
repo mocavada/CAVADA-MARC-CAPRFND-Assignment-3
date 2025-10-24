@@ -1,26 +1,28 @@
 
 
-PROGRAMMING TECHNIQUES – Assignment 3
-CAVADA-MARC-PROJECT-CA_PRTQS-A3
-GIT: https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3
+# PROGRAMMING TECHNIQUES – Assignment 3  
+**CAVADA-MARC-PROJECT-CA_PRTQS-A3**  
+**GIT:** [https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3](https://github.com/mocavada/CAVADA-MARC-CAPRFND-Assignment-3)
 
-⸻
+---
 
-📘 Introduction
-This project is part of the Programming Techniques – C# coursework. It focuses on applying Object-Oriented Programming principles such as inheritance, encapsulation, and method overriding to simulate a simple scenario distinguishing between a Teacher and Student using a console-based C# application.
+## 📘 Introduction  
+This project is part of the *Programming Techniques – C#* coursework. It focuses on applying **Object-Oriented Programming** principles such as **inheritance**, **encapsulation**, and **method overriding** to simulate a simple scenario distinguishing between a `Teacher` and `Student` using a console-based C# application.
 
-The program prompts the user to enter three names — one teacher and two students. Based on the input, it dynamically creates objects of Teacher and Student types, each inheriting from a base class Person. The output demonstrates polymorphic behavior through specific methods:
-	•	The Teacher executes the Explain() method.
-	•	Each Student executes the Study() method.
+The program prompts the user to enter three names — one teacher and two students. Based on the input, it dynamically creates objects of `Teacher` and `Student` types, each inheriting from a base class `Person`.  
+
+The output demonstrates polymorphic behavior through specific methods:
+- The **Teacher** executes the `Explain()` method.  
+- Each **Student** executes the `Study()` method.  
 
 This assignment demonstrates foundational C# concepts essential for professional development practices.
 
-⸻
+---
 
-🧩 Code Implementation
+## 🧩 Code Implementation
 
-Program.cs
-
+### **Program.cs**
+```csharp
 using System;
 using CAVADA_MARC_CAPRFND_Assignment_2.Assignments;
 
@@ -108,3 +110,10 @@ namespace CAVADA_MARC_CAPRFND_Assignment_2.Assignments
 
 
 ⸻
+
+
+This version:
+- Uses `#` and `##` headings for clear structure.
+- Keeps the code blocks syntax-highlighted for `.NET / C#`.
+- Is compatible with **GitHub MD**, **Next.js MDX**, or any markdown viewer.
+
