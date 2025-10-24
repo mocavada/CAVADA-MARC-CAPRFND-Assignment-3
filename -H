@@ -3,21 +3,18 @@
 ├── appsettings.Development.json
 ├── appsettings.json
 ├── Assignments
-│   ├── Q1_Car.cs
-│   ├── Q2_Employee.cs
-│   ├── Q3_ArrayCompare.cs
-│   ├── Q4_Palindrome.cs
-│   ├── Q5_AddParams.cs
-│   ├── Q6_ArrayCopy.cs
-│   └── Q7_ArraySortDescending.cs
+│   └── Q1_Person.cs
 ├── bin
 │   └── Debug
 │       └── net9.0
-├── CAVADA-MARC-CAPRFND-Assignment-2.csproj
+├── CAVADA-MARC-CAPRFND-Assignment-3.csproj
 ├── obj
 │   ├── CAVADA-MARC-CAPRFND-Assignment-2.csproj.nuget.dgspec.json
 │   ├── CAVADA-MARC-CAPRFND-Assignment-2.csproj.nuget.g.props
 │   ├── CAVADA-MARC-CAPRFND-Assignment-2.csproj.nuget.g.targets
+│   ├── CAVADA-MARC-CAPRFND-Assignment-3.csproj.nuget.dgspec.json
+│   ├── CAVADA-MARC-CAPRFND-Assignment-3.csproj.nuget.g.props
+│   ├── CAVADA-MARC-CAPRFND-Assignment-3.csproj.nuget.g.targets
 │   ├── Debug
 │   │   └── net9.0
 │   ├── project.assets.json
@@ -26,4 +23,4 @@
 └── Properties
     └── launchSettings.json
 
-9 directories, 18 files
+9 directories, 15 files
