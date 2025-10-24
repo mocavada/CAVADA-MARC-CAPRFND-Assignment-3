@@ -62,25 +62,9 @@ Study
    dotnet build
    dotnet run
 
-	3.	Enter three names when prompted.
+3.	Enter three names when prompted.
 
-⸻
 
-🧾 Files Structure
-
-CAVADA-MARC-CAPRFND-Assignment-3
-├── Assignments
-│   ├── Q1_Person.cs
-│   ├── Q2_Employee.cs
-│   ├── Q3_ArrayCompare.cs
-│   ├── Q4_Palindrome.cs
-│   ├── Q5_AddParams.cs
-│   ├── Q6_ArrayCopy.cs
-│   └── Q7_ArraySortDescending.cs
-├── Program.cs
-├── appsettings.json
-├── appsettings.Development.json
-└── README.md
 
 
 ⸻
